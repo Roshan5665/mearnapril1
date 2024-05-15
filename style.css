@@ -1,0 +1,69 @@
+.github_content_container{
+    height: 550px;
+    width: 400px;
+    background-color: antiquewhite;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+.github_logo{
+    margin-left: 150px;
+    margin-top: 25px;
+}
+.sign_github{
+    font-size: 26px;
+    margin-left: 100px;
+}
+.input_container{
+    height: 230px;
+    width: 300px;
+    background-color: azure;
+    margin-left: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.username_input{
+    border-radius: 5px;
+    height: 30px;
+    width: 95%;
+    margin-top: 10px;
+
+}
+.password_label{
+    margin-top: 10px;
+    display: inline-block;
+}
+.forgot_label{
+    color: blue;
+    margin-left: 100px;
+}
+.signin_btn{
+    margin-top: 20px;
+    width: 95%;
+    height: 35px;
+    background-color: green;
+    border-radius: 5px;
+
+}
+.bottom_container{
+    border: 1px solid grey;
+    height: 120px;
+    width: 320px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.passkey_label{
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 70px;
+    font-weight: 700;
+    color: blue;
+}
+.new_github{
+margin-top: 15px;
+margin-left: 55px;
+}
+.create_account{
+color: ;
+}
